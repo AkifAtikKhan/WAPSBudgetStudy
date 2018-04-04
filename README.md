@@ -9,3 +9,5 @@ This opened me to learn some very important tools that are necessary to be able 
 (2). Using R and dplyr to find strange values and changing them if it is interpretable
 
 (3). Using dplyr to merge datasets after it is structured. 
+
+Below is my tableau profile where you can find this visualization as well as my other ones: https://public.tableau.com/profile/akif5393#!/
