@@ -36,4 +36,4 @@ Some of the questions i tried to answer are:
 Below is my tableau profile where you can find this visualization as well as my other ones: https://public.tableau.com/profile/akif5393#!/
 
 Conclusion and last thoughts: 
-As i look back, I think using Excel would have been quicker and more efficent. Could have important everything as text, which would get rid of formatting errors, however it is universal that excel wont be able to handle big data.
+As i look back, I think using Excel would have been quicker and more efficent. Could have imported everything as text, which would get rid of formatting errors, however it is universal that excel wont be able to handle big data.
