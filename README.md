@@ -12,9 +12,10 @@ This opened me to learn some very important tools that are necessary to be able 
 
 (Links to the final visualization is below)
 
-For this whole project i spent almost 85% of my time cleaning and modifying the data. There wasn't any data dictionary to refer too so there were times I had to google term I did not understand. 
---x---x-----
-Problems i tackled in R
+For this whole project i spent almost 85% of my time cleaning and modifying the data. There wasn't any data dictionary to refer too so there were times I had to google terms I did not understand. 
+------x-------x-----
+Problems i tackled in R:
+
 •date column. Half way through one of the datasets, the year was in a completeley different format. So i had to create subsets of the data set, modify it, then remerge it, all using a package called dplyr. 
 
 • Missing data, and halfway through the dataset, the columns order was swapped. I had to replace everything in the correct order.
