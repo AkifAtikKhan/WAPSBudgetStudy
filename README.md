@@ -10,4 +10,23 @@ This opened me to learn some very important tools that are necessary to be able 
 
 (3). Using dplyr to merge datasets after it is structured. 
 
+(Links to the final product is below)
+
+
+
+
+
+For this whole project i spent almost 85% of my time cleaning and modifying the data. There wasn't any data dictionary to refer too so there were times I had to google term I did not understand. 
+
+Another issue i ran into was with the date column. Half way through one of the datasets, the year was in a completeley different format. So i had to create subsets of the data set, modify it, then remerge it, all using a package called dplyr. 
+
+Some of the questions i tried to answer are:
+
+• How have winona's staffing priorities changed in the past ten or more years, especially, in terms of expenditures? 
+
+• How does District 861 compare to other district’s in terms of transportation costs, routes, mileages, square mileage of district size? 
+
+• What has been the historical levy certifications for Health & Safety revenue & expenditures? 
+
+
 Below is my tableau profile where you can find this visualization as well as my other ones: https://public.tableau.com/profile/akif5393#!/
