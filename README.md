@@ -6,15 +6,11 @@ This opened me to learn some very important tools that are necessary to be able 
 
 (1). Using Tabula to scrape PDF Files. 
 
-(2). Using R and dplyr to find strange values and changing them if it is interpretable
+(2). Using R and dplyr to convert strange values to something more interpretable. 
 
 (3). Using dplyr to merge datasets after it is structured. 
 
-(Links to the final product is below)
-
-
-
-
+(Links to the final visualization is below)
 
 For this whole project i spent almost 85% of my time cleaning and modifying the data. There wasn't any data dictionary to refer too so there were times I had to google term I did not understand. 
 --x---x-----
