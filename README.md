@@ -16,7 +16,7 @@ For this whole project i spent almost 85% of my time cleaning and modifying the 
 ------x-------x-----
 Problems i tackled in R:
 
-•date column. Half way through one of the datasets, the year was in a completeley different format. So i had to create subsets of the data set, modify it, then remerge it, all using a package called dplyr. 
+•date column. Half way through one of the datasets, the date column was in a completeley different format(some alpha-numeric combination). So i had to create subsets of the data set, decipher and modify it,remerge it, all using a package called dplyr. 
 
 • Missing data, and halfway through the dataset, the columns order was swapped. I had to replace everything in the correct order.
 
