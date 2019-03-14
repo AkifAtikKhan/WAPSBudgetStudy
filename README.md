@@ -21,7 +21,8 @@ For this whole project i spent almost 85% of my time cleaning and modifying the 
 Problems i tackled in R
 •date column. Half way through one of the datasets, the year was in a completeley different format. So i had to create subsets of the data set, modify it, then remerge it, all using a package called dplyr. 
 
-• Missing data, and halfway through the dataset, the columns order was swapped. I had to replace everything in the correct order. Did all of this in R. 
+• Missing data, and halfway through the dataset, the columns order was swapped. I had to replace everything in the correct order.
+
 
 Some of the questions i tried to answer are:
 
@@ -33,3 +34,6 @@ Some of the questions i tried to answer are:
 
 
 Below is my tableau profile where you can find this visualization as well as my other ones: https://public.tableau.com/profile/akif5393#!/
+
+Conclusion and last thoughts: 
+As i look back, I think using Excel would have been quicker and more efficent. Could have important everything as text, which would get rid of formatting errors, however it is universal that excel wont be able to handle big data.
